@@ -5,4 +5,4 @@ def hello_world
   puts 5times(phrase)
 end
 
-hello_world
+hello_world()
