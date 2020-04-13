@@ -2,7 +2,7 @@
 
 def hello_world
   phrase = 'hello neil'
-  puts 5times(phrase)
+  puts phrase
 end
 
 hello_world()
